@@ -19,4 +19,6 @@ You are **strictly prohibited from using this code to target individuals, networ
 By using this code, you agree to comply with all applicable laws and ethical standards.  
 **Use at your own risk.**
 
+---
+
 <img width="1033" height="253" alt="kewl" src="https://github.com/user-attachments/assets/60ceaa00-dd34-43da-872d-ad4858823dcb" />
